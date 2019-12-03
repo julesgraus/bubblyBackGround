@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b09fe552-72c3-44a6-a60a-d80f62bc8936" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bubbles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bubble_small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bubble_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/bubbleField/bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/bubbleField/bubbleBackground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/bubbleField/bubbleBackgroundController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/pageController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UNgdwDCAQy0X5ki13cwClrfQF2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b09fe552-72c3-44a6-a60a-d80f62bc8936" name="Default Changelist" comment="" />
+      <created>1575202558018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575202558018</updated>
+      <workItem from="1575202559457" duration="10616000" />
+      <workItem from="1575321633617" duration="4545000" />
+      <workItem from="1575401521084" duration="7406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1575409972769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575409972769" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1575409972769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575409972769" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1575409972769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575409972769" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1575409972769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575409972769" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1575410361085">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575410361085" />
+    <state x="93" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575408431614">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575408431614" />
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1575402623851">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575402623851" />
+    <state x="974" y="437" width="612" height="526" key="find.popup" timestamp="1575321929027">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="974" y="437" width="612" height="526" key="find.popup/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575321929027" />
+    <state x="982" y="492" key="git4idea.merge.GitPullDialog" timestamp="1575410351174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="982" y="492" key="git4idea.merge.GitPullDialog/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575410351174" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1575407444451">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-3840.198.1536.840/0.0.2560.1400@0.0.2560.1400" timestamp="1575407444451" />
+  </component>
+</project>
